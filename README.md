@@ -6,11 +6,13 @@ A personalized Arch Linux Hyprland setup based on 43PR. It includes a wallpaper-
 
 ![Genesis Dotfiles desktop with the Pocket Dots notch](assets/screenshots/desktop.jpg)
 
+![The same desktop with the Pocket Dots control center expanded](assets/screenshots/notch-expanded.jpg)
+
 | Lock screen | Expanded dashboard |
 | --- | --- |
 | ![Lock screen with the blurred sample wallpaper](assets/screenshots/lock-screen.png) | ![Lock-screen dashboard with media controls and system readings](assets/screenshots/lock-dashboard.png) |
 
-The lock-screen screenshots use a sample wallpaper and the configuration in this repository. [Original 43PR desktop preview](assets/desktop.png).
+The lock-screen screenshots use a sample wallpaper and the configuration in this repository.
 
 ## Installation
 

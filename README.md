@@ -2,6 +2,10 @@
 
 A personalized Arch Linux Hyprland setup based on 43PR. It includes a wallpaper-driven theme, a choice of Waybar or the Pocket Dots notch, a Rofi launcher and wallpaper picker, and an animated in-session lock screen.
 
+## Desktop preview
+
+![Genesis Dotfiles desktop with the Pocket Dots notch](assets/screenshots/desktop.jpg)
+
 | Lock screen | Expanded dashboard |
 | --- | --- |
 | ![Lock screen with the blurred sample wallpaper](assets/screenshots/lock-screen.png) | ![Lock-screen dashboard with media controls and system readings](assets/screenshots/lock-dashboard.png) |
@@ -80,4 +84,3 @@ Edit supported shortcuts in **43PR Settings → Keybinds**. See [keybinds.lua](c
 Based on [43PR/dotfiles](https://github.com/43PR/dotfiles). The notch and optional Pokémon tools come from [Pocket Dots](https://github.com/diegoMalagrida/pocket-dots); the lock screen draws on [Nebula](https://github.com/LilaccFlowerr/Nebula). Waybar and Rofi styling draw on [binnewbs/arch-hyprland](https://github.com/binnewbs/arch-hyprland). The wallpaper picker builds on [hyprquickpaper](https://github.com/iamsurjog/hyprquickpaper). The optional greeter patch targets [SDDM Astronaut](https://github.com/Keyitdev/sddm-astronaut-theme).
 
 See [LICENSE](LICENSE) and the component licenses in [Pocket Dots](configs/quickshell/pocketisland/LICENSE), [Nebula](configs/quickshell/nebulalock/LICENSE), and [Pokémon tools](extras/pokemon/LICENSE). Upstream artwork remains credited to its respective creators.
-
